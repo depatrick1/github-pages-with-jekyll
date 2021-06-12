@@ -1,9 +1,9 @@
 theme: minima
-title: About me
+title: "Daniel Patrick's Website"
 author: Daniel Patrick
 email: depatrick@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-Information about Daniel Patrick
+   "Information about Daniel Patrick"
 
 # social links
 instagram_username: dirtydialga
