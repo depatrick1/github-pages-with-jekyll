@@ -1,5 +1,5 @@
 ---
-title: "Daniel Patrick"
+title: "Information about Daniel Patrick"
 ---
 
 
