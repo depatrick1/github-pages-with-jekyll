@@ -1,9 +1,10 @@
-theme: minima
-title: Daniel Patrick
+title: About me
 author: Daniel Patrick
 email: depatrick@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Information about Daniel Patrick
+  Private tutor for three years
+  Volunteered at Elijah's Promise
+  Volunteered at St. Bartholomew's Church
 
 # social links
 instagram_username: dirtydialga
@@ -12,7 +13,3 @@ snapchat_username: danielpat28
 github_username:  depatrick1 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-
-Private tutor for three years
-Volunteered at Elijah's Promise
-Volunteered at St. Bartholomew's Church
