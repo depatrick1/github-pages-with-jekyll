@@ -1,8 +1,6 @@
 ---
-title: "Brag-Sheet"
+title: "My-first-blog-post"
 date: 2021-06-12
 
-Private tutor for 3 years
-Volunteered at Elijah's Promise
-Volunteered at St. Bartholomew's Church
+This is my first blog post
 ---
